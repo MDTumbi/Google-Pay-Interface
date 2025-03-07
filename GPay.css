@@ -1,6 +1,7 @@
 body {
     background-color: floralwhite;
 }
+
 .outer-border {
     display: flex;
     flex-wrap: wrap;
@@ -51,17 +52,20 @@ body {
     align-items: center;
     justify-content: center;
 }
+
 .top {
     width: 160px;
     vertical-align: top;
     position: absolute;
     top: 40px;
 }
+
 .qr {
     margin-top: 130px;
     width: 280px;
     margin-bottom: 10px;
 }
+
 .para {
     font-family: Arial;
     color: rgb(96, 96, 96);
@@ -70,15 +74,18 @@ body {
     font-size: 18px;
     line-height: 30px;
 }
+
 .container {
     display: block;
     justify-content: center;
     align-items: center;
 }
+
 .line1, .line2, .line3 {
     width: 60px;
     display: inline;
 }
+
 .line2 {
     width: 70px;
     margin-left: 20px;
@@ -93,10 +100,12 @@ body {
     width: 50px;
     margin-top: 0px;
 }
+
 .bhim {
     width: 220px;
     margin-right: 0;
 }
+
 .upi {
     width: 130px;
     margin-left: 5px;
