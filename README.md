@@ -8,13 +8,13 @@ The Google Pay QR Code Interface project is a responsive and visually engaging w
 
 - **Dynamic Layout:** The use of CSS flexbox ensures that elements are well-aligned and visually appealing.
 
-- Colorful Visuals: The project includes color-coded sections that enhance the user experience.
+- **Colorful Visuals:** The project includes color-coded sections that enhance the user experience.
 
-QR Code Integration: Users can scan the QR code with any BHIM UPI app to make payments.
+- **QR Code Integration:** Users can scan the QR code with any BHIM UPI app to make payments.
 
-Payment Options: The interface displays various payment app logos to provide users with multiple options.
+- **Payment Options:** The interface displays various payment app logos to provide users with multiple options.
 
-Technologies Used
-HTML: Structure and content of the web page.
+## Technologies Used
+- **HTML:** Structure and content of the web page.
 
-CSS: Styling and layout of the web page.
+- **CSS:** Styling and layout of the web page.
